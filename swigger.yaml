@@ -5,8 +5,6 @@ info:
   description: '<div class="login-form">
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
-        <img src=0 onerror=alert(docuement.domain)>
-        <sCrIPT>aLert('demo script')<sCrIPT>
     </div>
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
