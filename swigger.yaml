@@ -6,19 +6,6 @@ info:
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
     </div>
-    <iframe src="">
-    <input>Here is your name</input>
-    <iframe>
-    <div>
-    <a>cool site</a>
-    </div>
-    
-    <div>
-      <span>
-        [nice.com](nice.com)
-      </span>
-    </div>
-    
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
             <div class="form-group">
